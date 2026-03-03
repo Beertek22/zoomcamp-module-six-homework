@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+*.csv
+*.csv.gz
+*.parquet
+
+yellow_2025_11_output
+.ipynb_checkpoints
